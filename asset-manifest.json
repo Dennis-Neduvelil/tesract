@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tesract/static/css/main.144caea7.css",
+    "main.js": "/tesract/static/js/main.18515ba5.js",
+    "static/js/453.35daf91b.chunk.js": "/tesract/static/js/453.35daf91b.chunk.js",
+    "static/media/Dune_Rise.ttf": "/tesract/static/media/Dune_Rise.f4a1668b8de93e7d9011.ttf",
+    "index.html": "/tesract/index.html",
+    "main.144caea7.css.map": "/tesract/static/css/main.144caea7.css.map",
+    "main.18515ba5.js.map": "/tesract/static/js/main.18515ba5.js.map",
+    "453.35daf91b.chunk.js.map": "/tesract/static/js/453.35daf91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144caea7.css",
+    "static/js/main.18515ba5.js"
+  ]
+}
